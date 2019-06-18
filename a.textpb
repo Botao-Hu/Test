@@ -1,0 +1,13 @@
+alice {
+  alice.son: 98
+}
+a-very-large-field {
+  repeated-a: 1
+  repeated-a: 1
+  repeated-a: 1
+  repeated-a: 1
+}
+bob {
+  bob.father: 100
+}
+
